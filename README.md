@@ -8,6 +8,8 @@ Step by step classification CNN of shapes images (square, circle, star, triangle
 
 ## Code
 
+Using Python 3 and Tensorflow 2.
+
 - Baseline CNN: very basic CNN with 2 conv. layers, no regularization.
 - Regularized CNN: added data augmentation strategy and dropout to baseline.
 - Use the [notebook](https://github.com/alzaia/four_shapes_classifier/blob/main/four_shapes_classifier_notebook.ipynb) to run all the main code and visualize results.
